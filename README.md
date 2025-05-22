@@ -65,6 +65,21 @@ Add a script to combine Preferred Date + Time into ISO format.
 
 #### 4. Gmail
 - Send confirmation email using HTML body with clinic logo
+dental-appointment-automation-project/
+
+
+├── README.md
+├── screenshots/
+│   ├── step1.png
+│   ├── step2.png
+│   └── ... etc.
+
+
+📷 Screenshots
+All screenshots of the Zapier setup and Gmail output are in the /screenshots/ folder.
+
+
+---
 
 ---
 
@@ -81,17 +96,4 @@ Add a script to combine Preferred Date + Time into ISO format.
 <p>– <strong>SMile Dental Clinic</strong></p>
 
 
-dental-appointment-automation-project/
-├── README.md
-├── screenshots/
-│   ├── step1.png
-│   ├── step2.png
-│   └── ... etc.
-
-
-📷 Screenshots
-All screenshots of the Zapier setup and Gmail output are in the /screenshots/ folder.
-
-
----
 
