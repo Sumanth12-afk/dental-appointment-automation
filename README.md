@@ -8,6 +8,9 @@ A complete no-code automation to handle dental clinic appointment bookings using
 - Zapier (Formatter, Gmail, Calendar)
 - Gmail with HTML Logo Email
 
+
+📷 Screenshots
+All screenshots of the Zapier setup and Gmail output are in the /screenshots/ folder.
 ---
 
 ## 📋 Google Form Link
@@ -68,21 +71,6 @@ Add a script to combine Preferred Date + Time into ISO format.
 dental-appointment-automation-project/
 
 
-├── README.md
-├── screenshots/
-│   ├── step1.png
-│   ├── step2.png
-│   └── ... etc.
-
-
-📷 Screenshots
-All screenshots of the Zapier setup and Gmail output are in the /screenshots/ folder.
-
-
----
-
----
-
 ## 📧 Sample Email Body (HTML)
 
 ```html
@@ -94,6 +82,8 @@ All screenshots of the Zapier setup and Gmail output are in the /screenshots/ fo
 <p>📍 Location: 123 Shank Colony, Hyderabad</p>
 <p>Reply to this email or call us at <strong>+91-8888888888</strong> if you need to reschedule.</p>
 <p>– <strong>SMile Dental Clinic</strong></p>
+
+
 
 
 
